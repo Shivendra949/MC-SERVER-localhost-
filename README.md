@@ -1,4 +1,6 @@
-# MC-SERVER-localhost
+# MC-SERVER-localhost  ----https://papermc.io/downloads--- Downloads paper.jar And Upload Folder 
+
+
 
 1. Double-click start.bat to run the server.
 2. Join with Java: play.yourdomain.com

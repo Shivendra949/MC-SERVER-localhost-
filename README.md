@@ -1,6 +1,6 @@
 # MC-SERVER-localhost  
 ====================================================
-🌐 FX SERVER - Crossplay Minecraft Server [JAVA + BEDROCK]
+🌐  SERVER - Crossplay Minecraft Server [JAVA + BEDROCK]
 ====================================================
 
 📁 Server Folder: MC-SERVER-localhost
